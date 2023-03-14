@@ -1,0 +1,143 @@
+*{box-sizing: border-box; margin: 0; padding: 0;}
+body
+{
+    position: relative;
+}
+.a1
+{
+    background: #5c5e2b;
+    display: flex;
+    padding-right: 100%;
+    
+}
+.a2
+{
+    background: #797a4f;
+    height: 100px;
+    display: flex;
+}
+.a2 .logo
+{
+    height: 100px;
+    width: 20%;
+    background:url(https://www.passionateinmarketing.com/wp-content/uploads/2022/06/ferns-n-petals-logo.png);
+
+    background-size: 100% 100%;
+  background-repeat: no-repeat;
+ 
+}
+
+.a2 .search-locatin
+{
+    height: 100px;
+    width: 40%;
+    background:white; 
+    padding: 35px; 
+    
+display: flex;
+  }
+.a2 .search-locatin.fa-solid 
+{
+    border: 10px solid red;
+}
+
+
+
+.a2 .cart-guest
+{
+    height: 100px;
+    width: 40%;
+    background:transparent;
+    line-height: 40px;
+}
+.nav
+{
+    height: 60px;
+    background: slategray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.nav ul li
+{
+    list-style: none;
+    display: inline;
+    margin-left: 15px;
+}
+a
+{
+    text-decoration: none;
+    color: black;
+}
+.flower
+{
+display: flex;
+justify-content:space-between;
+font-weight: bold;
+font-size: 30px;
+}
+.Alpha
+{
+height: 300px;
+
+background:transparent;
+display: flex;
+
+
+}
+.Alpha .Num1
+{
+   height: 300px;
+   width: 25%;
+    margin: 5px;
+    border: 5px solid white;
+border-radius: 50%;
+box-shadow:  0  0  10px grey;
+background: url(https://www.fnp.com/images/pr/l/v20230123123535/happy-n-loved-roses-bouquet_1.jpg);
+background-size: 100% 100%;
+
+    }
+
+.Alpha .Num2
+{
+   height: 300px;
+   width: 25%;
+    margin: 5px;
+    border: 5px solid white;
+border-radius: 50%;
+box-shadow:  0  0  10px grey;
+background: url(https://www.fnp.com/images/pr/l/v20220204210632/10-romantic-red-roses-bouquet_1.jpg);
+background-size: 100% 100%;
+
+
+    }
+     
+    .Alpha .Num3
+    {
+       height: 300px;
+       width: 25%;
+        margin: 5px;
+        border: 5px solid white;
+    border-radius: 50%;
+    box-shadow:  0  0  10px grey;
+    background: url(https://www.fnp.com/images/pr/l/v20200910140743/pink-white-oriental-lilies-in-glass-vase_1.jpg);
+    background-size: 100% 100%;
+   
+    }
+         
+        .Alpha .Num4
+        {
+           height: 300px;
+           width: 25%;
+            margin: 5px;
+            border: 5px solid white;
+        border-radius: 50%;
+        box-shadow:  0  0  10px grey;
+        background: url(https://www.fnp.com/images/pr/l/v20191219132007/poetic-pink-roses-bouquet_1.jpg);
+        background-size: 100% 100%;
+        
+    }
+
+    
+             
